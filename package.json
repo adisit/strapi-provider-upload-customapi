@@ -1,0 +1,30 @@
+{
+  "name": "@itlife/strapi-provider-upload-customapi",
+  "version": "1.0.0",
+  "description": "strapi-provider-upload-customapi / Strapi : V4.8.0",
+  "main": "./lib",
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": "https://github.com/adisit/strapi-provider-upload-itlife",
+  "author": {
+    "email": "a@itlife.co.th",
+    "name": "Adisit Saisom",
+    "url": "https://itlife.co.th"
+  },
+  "maintainers": [
+    {
+      "email": "a@itlife.co.th",
+      "name": "Adisit Saisom",
+      "url": "https://itlife.co.th"
+    }
+  ],
+  "strapi": {
+    "isProvider": true
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
